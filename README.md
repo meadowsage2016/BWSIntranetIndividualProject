@@ -12,6 +12,10 @@ Badger Welding Supplies, Inc. has a main location in Madison and a store in Mine
  Also I would like to add a variety of different items that would change frequently and add interest and value to the website.  Such as the current weather, road conditions, breaking news from major news sites, and perhaps an blog for employees to post whatever.
 Some of the items above will be available to all viewing the web-site, a few will require the user to sign in to access the data.
 
+##	Web Services or APIs
+*	Breaking news from major news sites
+*	Weather for Madison and Mineral Point
+
 ###Project Technologies/Techniques
 *	Security/Authentication
 *	Admin role: create/read/update/delete (crud) of all data
@@ -19,12 +23,7 @@ Some of the items above will be available to all viewing the web-site, a few wil
 *	All: anyone can view main page: search employee directory/delivery routes (no login)
 *	Database (MySQL)
 *	Store users and roles
-*	BWS Data Base – several tables – Employee Directory-DeliveryRoutes-SubDealers-Employeeblog-LeasesPurchases
-
-##	Web Services or APIs
-*	Breaking news from major news sites
-*	Weather for Madison and Mineral Point
-
+*	BWS Data Base â€“ several tables â€“ Employee Directory-DeliveryRoutes-SubDealers-Employeeblog-LeasesPurchases
 *	Bootstrap
 *	Logging
 *	Configurable logging using Log4J. In production, only errors will normally be logged, but logging at a debug level can be turned on to facilitate trouble-shooting.
